@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.446aa90e.chunk.css",
-    "main.js": "/static/js/main.733db969.chunk.js",
-    "main.js.map": "/static/js/main.733db969.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18171a28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18171a28.js.map",
-    "static/js/2.e900a4c3.chunk.js": "/static/js/2.e900a4c3.chunk.js",
-    "static/js/2.e900a4c3.chunk.js.map": "/static/js/2.e900a4c3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.446aa90e.chunk.css.map": "/static/css/main.446aa90e.chunk.css.map",
-    "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
-    "static/media/avatar.e756d916.jpg": "/static/media/avatar.e756d916.jpg"
+    "main.css": "/pelatihan6/static/css/main.446aa90e.chunk.css",
+    "main.js": "/pelatihan6/static/js/main.733db969.chunk.js",
+    "main.js.map": "/pelatihan6/static/js/main.733db969.chunk.js.map",
+    "runtime-main.js": "/pelatihan6/static/js/runtime-main.785099b9.js",
+    "runtime-main.js.map": "/pelatihan6/static/js/runtime-main.785099b9.js.map",
+    "static/js/2.e900a4c3.chunk.js": "/pelatihan6/static/js/2.e900a4c3.chunk.js",
+    "static/js/2.e900a4c3.chunk.js.map": "/pelatihan6/static/js/2.e900a4c3.chunk.js.map",
+    "index.html": "/pelatihan6/index.html",
+    "static/css/main.446aa90e.chunk.css.map": "/pelatihan6/static/css/main.446aa90e.chunk.css.map",
+    "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/pelatihan6/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
+    "static/media/avatar.e756d916.jpg": "/pelatihan6/static/media/avatar.e756d916.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18171a28.js",
+    "static/js/runtime-main.785099b9.js",
     "static/js/2.e900a4c3.chunk.js",
     "static/css/main.446aa90e.chunk.css",
     "static/js/main.733db969.chunk.js"
