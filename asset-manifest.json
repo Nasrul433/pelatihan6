@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pelatihan6/static/css/main.446aa90e.chunk.css",
+    "main.css": "/pelatihan6/static/css/main.f0217466.chunk.css",
     "main.js": "/pelatihan6/static/js/main.733db969.chunk.js",
     "main.js.map": "/pelatihan6/static/js/main.733db969.chunk.js.map",
     "runtime-main.js": "/pelatihan6/static/js/runtime-main.785099b9.js",
@@ -8,14 +8,14 @@
     "static/js/2.e900a4c3.chunk.js": "/pelatihan6/static/js/2.e900a4c3.chunk.js",
     "static/js/2.e900a4c3.chunk.js.map": "/pelatihan6/static/js/2.e900a4c3.chunk.js.map",
     "index.html": "/pelatihan6/index.html",
-    "static/css/main.446aa90e.chunk.css.map": "/pelatihan6/static/css/main.446aa90e.chunk.css.map",
+    "static/css/main.f0217466.chunk.css.map": "/pelatihan6/static/css/main.f0217466.chunk.css.map",
     "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/pelatihan6/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
     "static/media/avatar.e756d916.jpg": "/pelatihan6/static/media/avatar.e756d916.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.785099b9.js",
     "static/js/2.e900a4c3.chunk.js",
-    "static/css/main.446aa90e.chunk.css",
+    "static/css/main.f0217466.chunk.css",
     "static/js/main.733db969.chunk.js"
   ]
 }
